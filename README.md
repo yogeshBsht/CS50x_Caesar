@@ -3,9 +3,9 @@ A program that encrypts text messages using Caesar’s cipher. The program is ba
 
 The program takes plain text and key (integer) as inputs. It generates the cipher by "rotating" each letter of the plain text by key positions. Special characters, numbers and the case (lower/upper) of the letter is not changed. The cipher is printed on screen.
 
-For instance, output for key of 13 and a plaintext of hello, world:
-  plain  text:  hello, world
-  cipher text:  uryyb, jbeyq
+For instance, output for key of 13 and a plaintext of hello, world:  
+&nbsp;&nbsp;&nbsp; plain&nbsp;&nbsp;text:  hello, world  
+&nbsp;&nbsp;&nbsp; cipher text:  uryyb, jbeyq
 
 References:
 1. https://www.edx.org/course/cs50s-introduction-to-computer-science
